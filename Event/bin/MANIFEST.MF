@@ -1,0 +1,6 @@
+MIDlet-1: Event, Event.png, myevent
+MIDlet-Name: Event
+MIDlet-Vendor: Unknown
+MIDlet-Version: 1.0
+MicroEdition-Configuration: CLDC-1.0
+MicroEdition-Profile: MIDP-1.0
